@@ -1,0 +1,32 @@
+module Bisect_visit___src___parser__mock___ml___mock :
+  sig
+    val ___bisect_visit___ : int -> unit
+    val ___bisect_post_visit___ : int -> 'a -> 'a
+  end
+type token =
+    VAR of string
+  | TRUE
+  | TIMESF
+  | TIMES
+  | THEN
+  | RPAREN
+  | POWERF
+  | POWER
+  | PLUSF
+  | PLUS
+  | LPAREN
+  | LET
+  | LEQF
+  | LEQ
+  | INT of int
+  | IN
+  | IF
+  | FLOAT of float
+  | FALSE
+  | EQUALS
+  | EOF
+  | ELSE
+val menhir_begin_marker : int
+val xv_prog : Ast.expr
+val xv_expr : Ast.expr
+val menhir_end_marker : int

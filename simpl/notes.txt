@@ -1,0 +1,18 @@
+
+Testing
+
+string -> value
+
+Lexing, parsing, type check, eval
+
+input is invalid, tokens are incorrect
+^ These are syntax errors
+
+If the type check is incorrect
+^These are semantic errors
+
+Evaluation Correctness 
+
+Test the lexing, parsing, and 
+
+Lexing can be tested with parsing, illegal characters

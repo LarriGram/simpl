@@ -1,0 +1,145 @@
+# dune exec --instrument-with bisect_ppx ./test/main.exe
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: "/Users/larriyahgraham/Desktop/CSCI 170/simpl"
+# Auto-detected concurrency: 8
+$ /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -config > /var/folders/9p/47b3jc5n3w351zqmv6xv1x300000gn/T/dune_0acb64_output
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; for_host = None
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; ocaml_bin = External "/Users/larriyahgraham/.opam/default/bin"
+#  ; ocaml = Ok External "/Users/larriyahgraham/.opam/default/bin/ocaml"
+#  ; ocamlc = External "/Users/larriyahgraham/.opam/default/bin/ocamlc.opt"
+#  ; ocamlopt =
+#      Ok External "/Users/larriyahgraham/.opam/default/bin/ocamlopt.opt"
+#  ; ocamldep =
+#      Ok External "/Users/larriyahgraham/.opam/default/bin/ocamldep.opt"
+#  ; ocamlmklib =
+#      Ok External "/Users/larriyahgraham/.opam/default/bin/ocamlmklib.opt"
+#  ; env =
+#      map
+#        { "DUNE_OCAML_HARDCODED" :
+#            "/Users/larriyahgraham/.opam/default/lib/ocaml:/Users/larriyahgraham/.opam/default/lib"
+#        ; "DUNE_OCAML_STDLIB" :
+#            "/Users/larriyahgraham/.opam/default/lib/ocaml"
+#        ; "DUNE_SOURCEROOT" : "/Users/larriyahgraham/Desktop/CSCI 170/simpl"
+#        ; "INSIDE_DUNE" :
+#            "/Users/larriyahgraham/Desktop/CSCI 170/simpl/_build/default"
+#        ; "OCAMLFIND_IGNORE_DUPS_IN" :
+#            "/Users/larriyahgraham/Desktop/CSCI 170/simpl/_build/install/default/lib"
+#        ; "OCAMLPATH" :
+#            "/Users/larriyahgraham/Desktop/CSCI 170/simpl/_build/install/default/lib"
+#        ; "OCAMLTOP_INCLUDE_PATH" :
+#            "/Users/larriyahgraham/Desktop/CSCI 170/simpl/_build/install/default/lib/toplevel"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; findlib_paths =
+#      [ External "/Users/larriyahgraham/.opam/default/lib/ocaml"
+#      ; External "/Users/larriyahgraham/.opam/default/lib"
+#      ]
+#  ; natdynlink_supported = true
+#  ; supports_shared_libraries = true
+#  ; ocaml_config =
+#      { version = "5.0.0"
+#      ; standard_library_default =
+#          "/Users/larriyahgraham/.opam/default/lib/ocaml"
+#      ; standard_library = "/Users/larriyahgraham/.opam/default/lib/ocaml"
+#      ; standard_runtime = "the_standard_runtime_variable_was_deleted"
+#      ; ccomp_type = "cc"
+#      ; c_compiler = "cc"
+#      ; ocamlc_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread" ]
+#      ; ocamlc_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; ocamlopt_cflags =
+#          [ "-O2"; "-fno-strict-aliasing"; "-fwrapv"; "-pthread" ]
+#      ; ocamlopt_cppflags = [ "-D_FILE_OFFSET_BITS=64" ]
+#      ; bytecomp_c_compiler =
+#          [ "cc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; bytecomp_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_c_compiler =
+#          [ "cc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-pthread"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ]
+#      ; native_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_pack_linker = [ "ld"; "-r"; "-o" ]
+#      ; cc_profile = []
+#      ; architecture = "arm64"
+#      ; model = "default"
+#      ; int_size = 63
+#      ; word_size = 64
+#      ; system = "macosx"
+#      ; asm = [ "cc"; "-c"; "-Wno-trigraphs" ]
+#      ; asm_cfi_supported = true
+#      ; with_frame_pointers = false
+#      ; ext_exe = ""
+#      ; ext_obj = ".o"
+#      ; ext_asm = ".s"
+#      ; ext_lib = ".a"
+#      ; ext_dll = ".so"
+#      ; os_type = "Unix"
+#      ; default_executable_name = "a.out"
+#      ; systhread_supported = true
+#      ; host = "aarch64-apple-darwin22.6.0"
+#      ; target = "aarch64-apple-darwin22.6.0"
+#      ; profiling = false
+#      ; flambda = false
+#      ; spacetime = false
+#      ; safe_string = true
+#      ; exec_magic_number = "Caml1999X032"
+#      ; cmi_magic_number = "Caml1999I032"
+#      ; cmo_magic_number = "Caml1999O032"
+#      ; cma_magic_number = "Caml1999A032"
+#      ; cmx_magic_number = "Caml1999Y032"
+#      ; cmxa_magic_number = "Caml1999Z032"
+#      ; ast_impl_magic_number = "Caml1999M032"
+#      ; ast_intf_magic_number = "Caml1999N032"
+#      ; cmxs_magic_number = "Caml1999D032"
+#      ; cmt_magic_number = "Caml1999T032"
+#      ; natdynlink_supported = true
+#      ; supports_shared_libraries = true
+#      ; windows_unicode = false
+#      }
+#  }
+$ (cd _build/.sandbox/531b2facbb973b11456c76043c72f5ed/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe --cookie 'library-name="interp"' -o src/ast.pp.ml --impl src/ast.ml -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/.sandbox/435d1a1bdf8cfa7b5e370f98a2c04009/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe -o test/main.pp.ml --impl test/main.ml -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/.sandbox/8c341515c7d590da9b610f249eac7c59/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe --cookie 'library-name="interp"' -o src/lexer.pp.ml --impl src/lexer.ml -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/.sandbox/12b722de74d568832f224d42ce15df70/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe --cookie 'library-name="interp"' -o src/main.pp.ml --impl src/main.ml -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/.sandbox/d29bf3832c5274e49516b36217582d7d/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe --cookie 'library-name="interp"' -o src/parser__mock.ml.pp.mock --impl src/parser__mock.ml.mock -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamldep.opt -modules -impl src/parser__mock.ml.pp.mock) > _build/default/src/.interp.objs/parser__mock.impl.d
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamldep.opt -modules -impl src/main.pp.ml) > _build/default/src/.interp.objs/interp__Main.impl.d
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamldep.opt -modules -impl src/lexer.pp.ml) > _build/default/src/.interp.objs/interp__Lexer.impl.d
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamldep.opt -modules -impl src/ast.pp.ml) > _build/default/src/.interp.objs/interp__Ast.impl.d
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/.interp.objs/byte -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -no-alias-deps -opaque -open Interp -o src/.interp.objs/byte/interp__Ast.cmo -c -impl src/ast.pp.ml)
+$ (cd _build/.sandbox/48550c1934fe98700b9c39138db44dea/default && /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/.interp.objs/byte -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -open Interp -short-paths -i -impl src/parser__mock.ml.pp.mock) > _build/.sandbox/48550c1934fe98700b9c39138db44dea/default/src/parser__mock.mli.inferred
+$ (cd _build/.sandbox/a420280e86d49ef91dcc2a6652fdb05d/default && /Users/larriyahgraham/.opam/default/bin/menhir src/parser.mly --base src/parser --infer-read-reply src/parser__mock.mli.inferred)
+$ (cd _build/.sandbox/fdead4b6ee8c188d08fd63703ad6374b/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe --cookie 'library-name="interp"' -o src/parser.pp.mli --intf src/parser.mli -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamldep.opt -modules -intf src/parser.pp.mli) > _build/default/src/.interp.objs/interp__Parser.intf.d
+$ (cd _build/.sandbox/e54275b33df8dafcab21ba519e37a133/default && .ppx/47e007fefa63695257b4d9874e3138b7/ppx.exe --cookie 'library-name="interp"' -o src/parser.pp.ml --impl src/parser.ml -corrected-suffix .ppx-corrected -diff-cmd - -dump-ast)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/.interp.objs/byte -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -no-alias-deps -opaque -open Interp -o src/.interp.objs/byte/interp__Parser.cmi -c -intf src/parser.pp.mli)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamldep.opt -modules -impl src/parser.pp.ml) > _build/default/src/.interp.objs/interp__Parser.impl.d
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/.interp.objs/byte -I src/.interp.objs/native -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -intf-suffix .ml -no-alias-deps -opaque -open Interp -o src/.interp.objs/native/interp__Ast.cmx -c -impl src/ast.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/.interp.objs/byte -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -no-alias-deps -opaque -open Interp -o src/.interp.objs/byte/interp__Lexer.cmo -c -impl src/lexer.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I src/.interp.objs/byte -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -no-alias-deps -opaque -open Interp -o src/.interp.objs/byte/interp__Main.cmo -c -impl src/main.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlc.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -bin-annot -I test/.main.eobjs/byte -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -I /Users/larriyahgraham/.opam/default/lib/ounit2 -I /Users/larriyahgraham/.opam/default/lib/ounit2/advanced -I /Users/larriyahgraham/.opam/default/lib/seq -I /Users/larriyahgraham/.opam/default/lib/stdlib-shims -I src/.interp.objs/byte -no-alias-deps -opaque -o test/.main.eobjs/byte/dune__exe__Main.cmi -c -intf test/main.pp.mli)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/.interp.objs/byte -I src/.interp.objs/native -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -intf-suffix .ml -no-alias-deps -opaque -open Interp -o src/.interp.objs/native/interp__Lexer.cmx -c -impl src/lexer.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I test/.main.eobjs/byte -I test/.main.eobjs/native -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -I /Users/larriyahgraham/.opam/default/lib/ounit2 -I /Users/larriyahgraham/.opam/default/lib/ounit2/advanced -I /Users/larriyahgraham/.opam/default/lib/seq -I /Users/larriyahgraham/.opam/default/lib/stdlib-shims -I src/.interp.objs/byte -I src/.interp.objs/native -intf-suffix .ml -no-alias-deps -opaque -o test/.main.eobjs/native/dune__exe__Main.cmx -c -impl test/main.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/.interp.objs/byte -I src/.interp.objs/native -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -intf-suffix .ml -no-alias-deps -opaque -open Interp -o src/.interp.objs/native/interp__Main.cmx -c -impl src/main.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -I src/.interp.objs/byte -I src/.interp.objs/native -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common -I /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime -I /Users/larriyahgraham/.opam/default/lib/ocaml/unix -intf-suffix .ml -no-alias-deps -opaque -open Interp -o src/.interp.objs/native/interp__Parser.cmx -c -impl src/parser.pp.ml)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -a -o src/interp.cmxa src/.interp.objs/native/interp.cmx src/.interp.objs/native/interp__Ast.cmx src/.interp.objs/native/interp__Parser.cmx src/.interp.objs/native/interp__Lexer.cmx src/.interp.objs/native/interp__Main.cmx)
+$ (cd _build/default && /Users/larriyahgraham/.opam/default/bin/ocamlopt.opt -w @1..3@5..28@30..39@43@46..47@49..57@61..62@67@69-40 -strict-sequence -strict-formats -short-paths -keep-locs -g -o test/main.exe /Users/larriyahgraham/.opam/default/lib/bisect_ppx/common/bisect_common.cmxa /Users/larriyahgraham/.opam/default/lib/ocaml/unix/unix.cmxa /Users/larriyahgraham/.opam/default/lib/bisect_ppx/runtime/bisect.cmxa src/interp.cmxa /Users/larriyahgraham/.opam/default/lib/stdlib-shims/stdlib_shims.cmxa /Users/larriyahgraham/.opam/default/lib/ounit2/advanced/oUnitAdvanced.cmxa /Users/larriyahgraham/.opam/default/lib/ounit2/oUnit.cmxa test/.main.eobjs/native/dune__exe__Main.cmx)

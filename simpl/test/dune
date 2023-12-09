@@ -1,0 +1,7 @@
+(executable
+ (name main)
+ (libraries interp ounit2)
+ (instrumentation
+ (backend bisect_ppx))
+)
+

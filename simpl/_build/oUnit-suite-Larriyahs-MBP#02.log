@@ -1,0 +1,99 @@
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:1:parse_neg.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:1:parse_neg is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:1:parse_neg.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:3:parse_leq.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:3:parse_leq is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:3:parse_leq.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:5:parsing_if.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:5:parsing_if is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:5:parsing_if.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:7:int.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:7:int is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:7:int.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:9:add.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:9:add is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:9:add.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:11:adds.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:11:adds is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:11:adds.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:13:let.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:13:let is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:13:let.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:15:lets.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:15:lets is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:15:lets.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:17:mul1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:17:mul1 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:17:mul1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:19:mul2.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:19:mul2 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:19:mul2.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:21:mul3.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:21:mul3 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:21:mul3.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:23:mul4.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:23:mul4 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:23:mul4.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:25:if1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:25:if1 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:25:if1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:27:if2.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:27:if2 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:27:if2.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:29:if3.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:29:if3 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:29:if3.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:31:letif.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:31:letif is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:31:letif.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:34:true.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:34:true is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:34:true.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:36:leq.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:36:leq is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:36:leq.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:38:ty plus.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:38:ty plus is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:38:ty plus.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:39:ty mult.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:39:ty mult is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:39:ty mult.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:42:ty leq.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:42:ty leq is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:42:ty leq.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:44:if guard.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:44:if guard is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:44:if guard.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:46:if branch.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:46:if branch is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:46:if branch.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:47:unbound.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:47:unbound is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:47:unbound.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:49:ty power.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:49:ty power is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:49:ty power.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:51:let.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:51:let is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:51:let.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:53:addf.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:53:addf is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:53:addf.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:55:mulf1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:55:mulf1 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:55:mulf1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:57:mulf2.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:57:mulf2 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:57:mulf2.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:59:mul3.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:59:mul3 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:59:mul3.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:61:parse_float.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:61:parse_float is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:61:parse_float.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:63:parse_addf.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:63:parse_addf is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:63:parse_addf.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Start test suite:65:if1.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: Test suite:65:if1 is successful.
+2023-12-07T23:17:18+00:00 Larriyahs-MBP#02 I: End test suite:65:if1.

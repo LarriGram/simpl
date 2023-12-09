@@ -1,0 +1,574 @@
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Runner: processes
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Chooser: simple
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration suite_name = "suite"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration cache_filename = "/Users/larriyahgraham/Desktop/CSCI 170/simpl/_build/oUnit-$(suite_name).cache"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration run_gc_full_major = "true"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration display = "true"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration results_style_1_X = "false"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration testdata_dir = "none"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration health_check_interval = "1."
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration verbose = "false"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration chooser = "simple"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration output_html_dir = "none"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration processes_kill_period = "5."
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration runner = "processes"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration shards = "2"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration processes_grace_period = "5."
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration log_encoding = "utf-8"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration output_junit_file = "none"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration ci = "false"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Configuration output_file = "/Users/larriyahgraham/Desktop/CSCI 170/simpl/_build/oUnit-$(suite_name)-$(shard_id).log"
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Using 2 workers maximum.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Starting worker number Larriyahs-MacBook-Pro.local#01.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Worker Larriyahs-MacBook-Pro.local#01 started.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Starting worker number Larriyahs-MacBook-Pro.local#02.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Worker Larriyahs-MacBook-Pro.local#02 started.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:1:parse_neg, suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:1:parse_neg, suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:1:parse_neg.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:1:parse_neg, suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:0:parse_int is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:1:parse_neg, suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:1:parse_neg, suite:0:parse_int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:2:parse_add, suite:1:parse_neg.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:2:parse_add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:2:parse_add, suite:1:parse_neg.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:1:parse_neg is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:2:parse_add, suite:1:parse_neg.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:1:parse_neg.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:2:parse_add, suite:1:parse_neg.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:3:parse_leq, suite:2:parse_add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:3:parse_leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:3:parse_leq, suite:2:parse_add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:2:parse_add is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:3:parse_leq, suite:2:parse_add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:2:parse_add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:3:parse_leq, suite:2:parse_add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:4:parsing_leq_var, suite:3:parse_leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:4:parsing_leq_var.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:4:parsing_leq_var, suite:3:parse_leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:3:parse_leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:4:parsing_leq_var, suite:3:parse_leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:3:parse_leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:4:parsing_leq_var, suite:3:parse_leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:5:parsing_if, suite:4:parsing_leq_var.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:5:parsing_if.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:5:parsing_if, suite:4:parsing_leq_var.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:4:parsing_leq_var is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:5:parsing_if, suite:4:parsing_leq_var.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:4:parsing_leq_var.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:5:parsing_if, suite:4:parsing_leq_var.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:6:parse_power, suite:5:parsing_if.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:6:parse_power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:6:parse_power, suite:5:parsing_if.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:5:parsing_if is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:6:parse_power, suite:5:parsing_if.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:5:parsing_if.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:6:parse_power, suite:5:parsing_if.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:7:parse_float, suite:6:parse_power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:7:parse_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:7:parse_float, suite:6:parse_power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:6:parse_power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:7:parse_float, suite:6:parse_power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:6:parse_power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:7:parse_float, suite:6:parse_power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:8:parse_neg_float, suite:7:parse_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:8:parse_neg_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:8:parse_neg_float, suite:7:parse_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:7:parse_float is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:8:parse_neg_float, suite:7:parse_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:7:parse_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:8:parse_neg_float, suite:7:parse_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:9:parse_addf, suite:8:parse_neg_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:9:parse_addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:9:parse_addf, suite:8:parse_neg_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:8:parse_neg_float is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:9:parse_addf, suite:8:parse_neg_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:8:parse_neg_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:9:parse_addf, suite:8:parse_neg_float.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:10:parse_powerf, suite:9:parse_addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:10:parse_powerf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:10:parse_powerf, suite:9:parse_addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:9:parse_addf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:10:parse_powerf, suite:9:parse_addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:9:parse_addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:10:parse_powerf, suite:9:parse_addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:11:int, suite:10:parse_powerf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:10:parse_powerf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:11:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:11:int, suite:10:parse_powerf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:10:parse_powerf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:11:int, suite:10:parse_powerf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:12:int, suite:11:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:12:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:12:int, suite:11:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:11:int is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:12:int, suite:11:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:11:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:12:int, suite:11:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:13:add, suite:12:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:13:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:13:add, suite:12:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:12:int is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:13:add, suite:12:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:12:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:13:add, suite:12:int.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:14:add, suite:13:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:14:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:14:add, suite:13:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:13:add is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:14:add, suite:13:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:13:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:14:add, suite:13:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:15:adds, suite:14:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:15:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:15:adds, suite:14:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:14:add is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:15:adds, suite:14:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:14:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:15:adds, suite:14:add.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:16:adds, suite:15:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:16:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:16:adds, suite:15:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:15:adds is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:16:adds, suite:15:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:15:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:16:adds, suite:15:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:17:let, suite:16:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:17:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:17:let, suite:16:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:16:adds is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:17:let, suite:16:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:16:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:17:let, suite:16:adds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:18:let, suite:17:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:18:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:18:let, suite:17:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:17:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:18:let, suite:17:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:17:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:18:let, suite:17:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:19:lets, suite:18:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:19:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:19:lets, suite:18:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:18:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:19:lets, suite:18:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:18:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:19:lets, suite:18:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:20:lets, suite:19:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:20:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:20:lets, suite:19:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:19:lets is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:20:lets, suite:19:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:19:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:20:lets, suite:19:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:21:mul1, suite:20:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:21:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:21:mul1, suite:20:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:20:lets is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:21:mul1, suite:20:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:20:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:21:mul1, suite:20:lets.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:22:mul1, suite:21:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:22:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:22:mul1, suite:21:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:21:mul1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:22:mul1, suite:21:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:21:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:22:mul1, suite:21:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:23:mul2, suite:22:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:23:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:23:mul2, suite:22:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:22:mul1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:23:mul2, suite:22:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:22:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:23:mul2, suite:22:mul1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:24:mul2, suite:23:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:24:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:24:mul2, suite:23:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:23:mul2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:24:mul2, suite:23:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:23:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:24:mul2, suite:23:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:25:mul3, suite:24:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:25:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:25:mul3, suite:24:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:24:mul2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:25:mul3, suite:24:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:24:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:25:mul3, suite:24:mul2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:26:mul3, suite:25:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:26:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:26:mul3, suite:25:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:25:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:26:mul3, suite:25:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:25:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:26:mul3, suite:25:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:27:mul4, suite:26:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:27:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:27:mul4, suite:26:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:26:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:27:mul4, suite:26:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:26:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:27:mul4, suite:26:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:28:mul4, suite:27:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:28:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:28:mul4, suite:27:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:27:mul4 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:28:mul4, suite:27:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:27:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:28:mul4, suite:27:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:29:if1, suite:28:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:29:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:29:if1, suite:28:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:28:mul4 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:29:if1, suite:28:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:28:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:29:if1, suite:28:mul4.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:30:if1, suite:29:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:30:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:30:if1, suite:29:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:29:if1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:30:if1, suite:29:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:29:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:30:if1, suite:29:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:31:true, suite:30:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:31:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:31:true, suite:30:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:30:if1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:31:true, suite:30:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:30:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:31:true, suite:30:if1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:32:true, suite:31:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:32:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:32:true, suite:31:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:31:true is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:32:true, suite:31:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:31:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:32:true, suite:31:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:33:leq, suite:32:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:33:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:33:leq, suite:32:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:32:true is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:33:leq, suite:32:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:32:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:33:leq, suite:32:true.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:34:leq, suite:33:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:34:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:34:leq, suite:33:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:33:leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:34:leq, suite:33:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:33:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:34:leq, suite:33:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:35:if2, suite:34:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:35:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:35:if2, suite:34:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:34:leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:35:if2, suite:34:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:34:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:35:if2, suite:34:leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:36:if2, suite:35:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:36:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:36:if2, suite:35:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:35:if2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:36:if2, suite:35:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:35:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:36:if2, suite:35:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:37:if3, suite:36:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:37:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:37:if3, suite:36:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:36:if2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:37:if3, suite:36:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:36:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:37:if3, suite:36:if2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:38:if3, suite:37:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:38:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:38:if3, suite:37:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:37:if3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:38:if3, suite:37:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:37:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:38:if3, suite:37:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:39:letif, suite:38:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:39:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:39:letif, suite:38:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:38:if3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:39:letif, suite:38:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:38:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:39:letif, suite:38:if3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:40:letif, suite:39:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:40:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:40:letif, suite:39:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:39:letif is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:40:letif, suite:39:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:39:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:40:letif, suite:39:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:41:ty plus, suite:40:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:41:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:41:ty plus, suite:40:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:40:letif is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:41:ty plus, suite:40:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:40:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:41:ty plus, suite:40:letif.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:42:ty plus, suite:41:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:42:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:42:ty plus, suite:41:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:41:ty plus is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:42:ty plus, suite:41:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:41:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:42:ty plus, suite:41:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:43:ty mult, suite:42:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:43:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:43:ty mult, suite:42:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:42:ty plus is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:43:ty mult, suite:42:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:42:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:43:ty mult, suite:42:ty plus.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:44:ty mult, suite:43:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:44:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:44:ty mult, suite:43:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:43:ty mult is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:44:ty mult, suite:43:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:43:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:44:ty mult, suite:43:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:45:ty leq, suite:44:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:45:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:45:ty leq, suite:44:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:44:ty mult is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:45:ty leq, suite:44:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:44:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:45:ty leq, suite:44:ty mult.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:46:ty leq, suite:45:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:46:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:46:ty leq, suite:45:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:45:ty leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:46:ty leq, suite:45:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:45:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:46:ty leq, suite:45:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:47:if guard, suite:46:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:47:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:47:if guard, suite:46:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:46:ty leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:47:if guard, suite:46:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:46:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:47:if guard, suite:46:ty leq.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:48:if guard, suite:47:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:48:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:48:if guard, suite:47:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:47:if guard is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:48:if guard, suite:47:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:47:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:48:if guard, suite:47:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:49:if branch, suite:48:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:49:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:49:if branch, suite:48:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:48:if guard is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:49:if branch, suite:48:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:48:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:49:if branch, suite:48:if guard.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:50:if branch, suite:49:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:50:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:50:if branch, suite:49:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:49:if branch is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:50:if branch, suite:49:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:49:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:50:if branch, suite:49:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:51:unbound, suite:50:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:51:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:51:unbound, suite:50:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:50:if branch is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:51:unbound, suite:50:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:50:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:51:unbound, suite:50:if branch.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:52:unbound, suite:51:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:52:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:52:unbound, suite:51:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:51:unbound is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:52:unbound, suite:51:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:51:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:52:unbound, suite:51:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:53:power, suite:52:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:53:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:53:power, suite:52:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:52:unbound is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:53:power, suite:52:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:52:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:53:power, suite:52:unbound.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:54:power, suite:53:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:54:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:54:power, suite:53:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:53:power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:54:power, suite:53:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:53:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:54:power, suite:53:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:55:ty power, suite:54:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:55:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:55:ty power, suite:54:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:54:power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:55:ty power, suite:54:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:54:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:55:ty power, suite:54:power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:56:ty power, suite:55:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:56:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:56:ty power, suite:55:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:55:ty power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:56:ty power, suite:55:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:55:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:56:ty power, suite:55:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:57:let, suite:56:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:57:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:57:let, suite:56:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:56:ty power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:57:let, suite:56:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:56:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:57:let, suite:56:ty power.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:58:let, suite:57:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:58:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:58:let, suite:57:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:57:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:58:let, suite:57:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:57:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:58:let, suite:57:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:59:addf, suite:58:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:59:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:59:addf, suite:58:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:58:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:59:addf, suite:58:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:58:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:59:addf, suite:58:let.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:60:addf, suite:59:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:60:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:60:addf, suite:59:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:59:addf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:60:addf, suite:59:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:59:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:60:addf, suite:59:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:61:mulf1, suite:60:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:61:mulf1, suite:60:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:60:addf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:61:mulf1, suite:60:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:60:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:61:mulf1, suite:60:addf.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:62:mulf1, suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:62:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:62:mulf1, suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:62:mulf1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:62:mulf1, suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:61:mulf1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:62:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:62:mulf1, suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:63:mulf2, suite:61:mulf1.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:64:mulf2, suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:64:mulf2, suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:64:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:64:mulf2, suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:63:mulf2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:64:mulf2, suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:64:mulf2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:64:mulf2, suite:63:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:64:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:65:mul3, suite:64:mulf2.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Still 2 tests running : suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Start test suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Start test suite:66:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Still 2 tests running : suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: Test suite:65:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: Test suite:66:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Still 2 tests running : suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#01 I: End test suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#02 I: End test suite:66:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Still 2 tests running : suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 2 tests running: suite:66:mul3, suite:65:mul3.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: 0 tests running: .
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Worker Larriyahs-MacBook-Pro.local#01 has ended.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Worker Larriyahs-MacBook-Pro.local#02 has ended.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Used 2 worker during test execution.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Run 34 tests with shard Larriyahs-MacBook-Pro.local#01.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Run 33 tests with shard Larriyahs-MacBook-Pro.local#02.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Check health of shard Larriyahs-MacBook-Pro.local#01, 1 times.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Check health of shard Larriyahs-MacBook-Pro.local#02, 1 times.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: ==============
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Summary:
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:66:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:65:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:64:mulf2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:63:mulf2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:61:mulf1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:62:mulf1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:60:addf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:59:addf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:58:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:57:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:56:ty power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:55:ty power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:54:power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:53:power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:52:unbound is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:51:unbound is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:50:if branch is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:49:if branch is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:48:if guard is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:47:if guard is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:46:ty leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:45:ty leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:44:ty mult is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:43:ty mult is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:42:ty plus is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:41:ty plus is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:40:letif is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:39:letif is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:38:if3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:37:if3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:36:if2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:35:if2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:34:leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:33:leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:32:true is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:31:true is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:30:if1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:29:if1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:28:mul4 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:27:mul4 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:26:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:25:mul3 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:24:mul2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:23:mul2 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:22:mul1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:21:mul1 is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:20:lets is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:19:lets is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:18:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:17:let is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:16:adds is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:15:adds is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:14:add is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:13:add is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:12:int is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:11:int is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:10:parse_powerf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:9:parse_addf is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:8:parse_neg_float is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:7:parse_float is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:6:parse_power is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:5:parsing_if is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:4:parsing_leq_var is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:3:parse_leq is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:2:parse_add is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:1:parse_neg is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Test suite:0:parse_int is successful.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Ran: 67 tests in: 0.12 seconds.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Cases: 67.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Tried: 67.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Errors: 0.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Failures: 0.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Skip: 0.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Todo: 0.
+2023-12-07T19:21:00+00:00 Larriyahs-MacBook-Pro.local#00 I: Timeout: 0.
